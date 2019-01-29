@@ -1,0 +1,10 @@
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csprojAssemblyReference.cache
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\Users\mshaf\Tech-Academy-Visual-Studio-Projects\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CopyComplete

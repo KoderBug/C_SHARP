@@ -89,3 +89,7 @@ C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\Newslett
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CopyComplete
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb
+C:\Users\mshaf\projects\C_SHARP\drills\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csprojAssemblyReference.cache
+C:\Users\mshaf\projects\C_SHARP\drills\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\projects\C_SHARP\drills\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.dll
+C:\Users\mshaf\projects\C_SHARP\drills\NewsletterAppMVC\NewsletterAppMVC\obj\Debug\NewsletterAppMVC.pdb

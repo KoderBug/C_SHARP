@@ -5,3 +5,10 @@ C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandlingPt2\Exce
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandlingPt2\ExceptionHandlingPt2\bin\Debug\ExceptionHandlingPt2.pdb
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.exe
 C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.pdb
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\bin\Debug\ExceptionHandlingPt2.exe.config
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\bin\Debug\ExceptionHandlingPt2.exe
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\bin\Debug\ExceptionHandlingPt2.pdb
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.csprojAssemblyReference.cache
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.exe
+C:\Users\mshaf\projects\C_SHARP\drills\ExceptionHandlingPt2\ExceptionHandlingPt2\obj\Debug\ExceptionHandlingPt2.pdb
