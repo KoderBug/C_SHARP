@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\bin\Debug\IteratingArraysAndLists.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\bin\Debug\IteratingArraysAndLists.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\bin\Debug\IteratingArraysAndLists.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\obj\Debug\IteratingArraysAndLists.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\obj\Debug\IteratingArraysAndLists.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\obj\Debug\IteratingArraysAndLists.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\IteratingArraysAndLists\IteratingArraysAndLists\obj\Debug\IteratingArraysAndLists.pdb

@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\bin\Debug\AnonymousIncomePgm.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\bin\Debug\AnonymousIncomePgm.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\bin\Debug\AnonymousIncomePgm.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\obj\Debug\AnonymousIncomePgm.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\obj\Debug\AnonymousIncomePgm.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\obj\Debug\AnonymousIncomePgm.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\AnonymousIncomePgm\AnonymousIncomePgm\obj\Debug\AnonymousIncomePgm.pdb

@@ -1,0 +1,46 @@
+﻿@model IEnumerable<CinemaFilms.Models.Movie>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Now Showing</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.movieName) -->
+            Movie Name
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Rating)
+        </th>
+        <th>
+            <!-- @Html.DisplayNameFor(model => model.runTime)-->
+            Run Time
+        </th>
+        <th></th>
+        </tr>
+
+    @foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.movieName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Rating)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.runTime)
+        </td>
+        
+        <td>
+           
+            @Html.ActionLink("Showtimes", "Details", new { id = item.ID }) 
+           
+        </td>
+    </tr>
+    }
+
+    </table>

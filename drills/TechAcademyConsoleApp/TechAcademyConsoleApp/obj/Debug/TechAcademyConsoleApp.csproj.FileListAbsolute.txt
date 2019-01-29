@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\bin\Debug\TechAcademyConsoleApp.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\bin\Debug\TechAcademyConsoleApp.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\bin\Debug\TechAcademyConsoleApp.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\obj\Debug\TechAcademyConsoleApp.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\obj\Debug\TechAcademyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\obj\Debug\TechAcademyConsoleApp.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\TechAcademyConsoleApp\TechAcademyConsoleApp\obj\Debug\TechAcademyConsoleApp.pdb

@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\bin\Debug\BranchingExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\BranchingExercise\BranchingExercise\obj\Debug\BranchingExercise.pdb

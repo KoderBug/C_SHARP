@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\obj\Debug\VarConstrExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\obj\Debug\VarConstrExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\bin\Debug\VarConstrExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\bin\Debug\VarConstrExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\bin\Debug\VarConstrExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\obj\Debug\VarConstrExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\VarConstrExercise\VarConstrExercise\obj\Debug\VarConstrExercise.pdb

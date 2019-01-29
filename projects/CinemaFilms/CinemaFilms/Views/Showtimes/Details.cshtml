@@ -1,0 +1,31 @@
+﻿@using CinemaFilms.ViewModels
+@model List<MovieDetailsVm>
+
+@{
+    ViewBag.Title = "Showtimes";
+}
+
+<h2>Showtimes</h2>
+
+<div>
+    <h4>Movie Times for @Model[0].movieName</h4>
+    <hr />
+    @foreach (var showtime in Model)
+    {
+        <dl class="dl-horizontal">
+
+            <dt>
+                @showtime.movieTime
+            </dt>           
+
+            <dd>
+                -&nbsp; &nbsp;&nbsp;  Showing in Theater @showtime.movieTheater
+            </dd>
+
+        </dl>
+    }
+</div>
+<p>
+    
+    @Html.ActionLink("Back to List", "Index")
+</p>

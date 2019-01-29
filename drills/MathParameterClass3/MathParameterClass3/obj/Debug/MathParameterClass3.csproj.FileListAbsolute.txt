@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\obj\Debug\MathParameterClass3.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\obj\Debug\MathParameterClass3.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\bin\Debug\MathParameterClass3.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\bin\Debug\MathParameterClass3.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\bin\Debug\MathParameterClass3.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\obj\Debug\MathParameterClass3.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterClass3\MathParameterClass3\obj\Debug\MathParameterClass3.pdb

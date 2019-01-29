@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\obj\Debug\EmployeesPgm2.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\bin\Debug\EmployeesPgm2.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\bin\Debug\EmployeesPgm2.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\bin\Debug\EmployeesPgm2.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\obj\Debug\EmployeesPgm2.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\obj\Debug\EmployeesPgm2.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm2\EmployeesPgm2\obj\Debug\EmployeesPgm2.csprojAssemblyReference.cache

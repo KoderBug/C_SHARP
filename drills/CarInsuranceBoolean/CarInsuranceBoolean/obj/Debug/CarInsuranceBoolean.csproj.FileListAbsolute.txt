@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\bin\Debug\CarInsuranceBoolean.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\bin\Debug\CarInsuranceBoolean.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\bin\Debug\CarInsuranceBoolean.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\obj\Debug\CarInsuranceBoolean.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\obj\Debug\CarInsuranceBoolean.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\obj\Debug\CarInsuranceBoolean.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\CarInsuranceBoolean\CarInsuranceBoolean\obj\Debug\CarInsuranceBoolean.pdb

@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\bin\Debug\WelcomeAccounting.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\WelcomeAccounting\WelcomeAccounting\obj\Debug\WelcomeAccounting.pdb

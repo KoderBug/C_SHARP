@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\obj\Debug\LoopExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\obj\Debug\LoopExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\bin\Debug\LoopExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\bin\Debug\LoopExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\bin\Debug\LoopExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\obj\Debug\LoopExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LoopExercise\LoopExercise\obj\Debug\LoopExercise.pdb

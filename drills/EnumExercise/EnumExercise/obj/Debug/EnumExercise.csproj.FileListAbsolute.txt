@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\obj\Debug\EnumExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\obj\Debug\EnumExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\bin\Debug\EnumExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\bin\Debug\EnumExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\bin\Debug\EnumExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\obj\Debug\EnumExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EnumExercise\EnumExercise\obj\Debug\EnumExercise.pdb

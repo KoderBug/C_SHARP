@@ -1,0 +1,28 @@
+﻿@using CinemaComplexApp.ViewModels
+@model List<NowShowingVm>
+
+<div class="row no-gutters m-3">
+    <div class="card w-75 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0">Movies Playing</h5>
+        </div>
+
+        @foreach (var viewer in Model)
+        {
+            <div class="border border-dark rounded-bottom">
+                <div class="row m-3">
+                    <div class="col">
+                        <strong>Movies at  @viewer.CinemaName </strong>
+                    </div>
+                    <div class="col">
+                        @viewer.movieName will be showing in Theater: @viewer.Theater
+                    </div>
+                    <div class="col">
+                        @viewer.LastName will be in seat @viewer.Seat
+                    </div>
+                </div>
+            </div>
+        }
+        </div>
+    </div>
+

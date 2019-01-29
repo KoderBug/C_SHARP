@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\obj\Debug\MathClassExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\obj\Debug\MathClassExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\bin\Debug\MathClassExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\bin\Debug\MathClassExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\bin\Debug\MathClassExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\obj\Debug\MathClassExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathClassExercise\MathClassExercise\obj\Debug\MathClassExercise.pdb

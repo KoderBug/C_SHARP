@@ -1,0 +1,14 @@
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.exe.config
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.exe
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\bin\Debug\MathExercise.pdb
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.exe
+C:\Users\mshaf\source\repos\MathExercise\MathExercise\obj\Debug\MathExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\bin\Debug\MathExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\bin\Debug\MathExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\bin\Debug\MathExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\obj\Debug\MathExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\obj\Debug\MathExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\obj\Debug\MathExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathExercise\MathExercise\obj\Debug\MathExercise.pdb

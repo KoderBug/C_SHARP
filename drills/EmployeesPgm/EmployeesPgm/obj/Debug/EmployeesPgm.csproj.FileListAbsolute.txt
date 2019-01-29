@@ -1,0 +1,6 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\obj\Debug\EmployeesPgm.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\bin\Debug\EmployeesPgm.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\bin\Debug\EmployeesPgm.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\bin\Debug\EmployeesPgm.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\obj\Debug\EmployeesPgm.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\EmployeesPgm\EmployeesPgm\obj\Debug\EmployeesPgm.pdb

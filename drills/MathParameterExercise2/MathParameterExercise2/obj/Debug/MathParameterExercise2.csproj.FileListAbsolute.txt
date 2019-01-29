@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\obj\Debug\MathParameterExercise2.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\obj\Debug\MathParameterExercise2.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\bin\Debug\MathParameterExercise2.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\bin\Debug\MathParameterExercise2.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\bin\Debug\MathParameterExercise2.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\obj\Debug\MathParameterExercise2.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\MathParameterExercise2\MathParameterExercise2\obj\Debug\MathParameterExercise2.pdb

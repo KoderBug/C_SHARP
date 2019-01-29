@@ -1,0 +1,69 @@
+﻿@using InsuranceQuote.ViewModels
+@model List<QuoteVm>
+
+<div class="row no-gutters m-3">
+    @*<div class="card col-sm-12 col-md-10 col-lg-6 mx-auto shadow">*@
+    <div class="card w-75 mx-auto shadow">
+        <div class="card-header text-center">
+            <h5 class="m-0"> Administrator Page - All Quotes</h5>
+        </div>
+
+        @foreach (var quote in Model)
+        {
+        <div class="border border-dark rounded-bottom">
+            <div class="row m-3">
+
+                <div class="col">
+                    Last Name:    @quote.LastName
+                </div>
+                <div class="col">
+                    First Name: @quote.FirstName
+                </div>
+                
+
+            </div>
+
+            <div class="row m-3">
+                <div class="col">
+                    Date of Birth: @quote.DOB
+                </div>
+                <div class="col-6">
+                    Email Address:  @quote.Email
+                </div>
+               
+            </div>
+
+            <div class="row m-3">
+                <div class="col">
+                    Coverage:    @quote.CvgType
+                </div>
+                <div class="col">
+                    DUI:    @quote.DUI
+                </div>
+                <div class="col">
+                    Number of Speeding tickets:  @quote.SpeedTickets
+                </div>
+            </div>
+
+                <div class="row m-3">
+                    <div class="col-3">
+                        Car Year: @quote.CarYear
+                    </div>
+                    <div class="col">
+                        Car Make:    @quote.CarMake
+                    </div>
+                    <div class="col">
+                        Car Model:  @quote.CarModel
+                    </div>
+                </div>
+
+                <div class="row ml-3">
+                    <div class="col">
+                        Your Monthly Payment would be:  $@quote.Quote
+                    </div>
+                </div>
+            </div>
+                }
+          
+        </div>
+    </div>

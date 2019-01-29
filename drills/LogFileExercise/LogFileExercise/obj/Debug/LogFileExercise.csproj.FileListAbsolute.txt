@@ -1,0 +1,7 @@
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\bin\Debug\LogFileExercise.exe.config
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\bin\Debug\LogFileExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\bin\Debug\LogFileExercise.pdb
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\obj\Debug\LogFileExercise.csprojAssemblyReference.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\obj\Debug\LogFileExercise.csproj.CoreCompileInputs.cache
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\obj\Debug\LogFileExercise.exe
+C:\Users\mshaf\The-Tech-Academy-Basic-C-Sharp-Projects\LogFileExercise\LogFileExercise\obj\Debug\LogFileExercise.pdb
